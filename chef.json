@@ -1,0 +1,316 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.2006206461.1654410075&semt=robertav1_2_sidr",
+        "chef_name": "Mohammed Rahman",
+        "years_of_experience": 10,
+        "description": "Mohammed Rahman is a renowned Bangladeshi chef with over 10 years of experience. He specializes in traditional Bangladeshi cuisine and has won several awards for his culinary skills.",
+        "likes": 5000,
+        "number_of_recipes": 5,
+        "recipes": [
+            {
+                "name": "Bengali Fish Curry",
+                "image": "https://example.com/fishcurry.jpg",
+                "rating": 4.5,
+                "ingredients": [
+                    "500g fish fillets",
+                    "1 onion",
+                    "3 garlic cloves",
+                    "1 inch ginger",
+                    "1 tsp cumin powder"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            },
+            {
+                "name": "Bengali Beef Curry",
+                "image": "https://example.com/beefcurry.jpg",
+                "rating": 4.8,
+                "ingredients": [
+                    "500g beef",
+                    "1 onion",
+                    "3 garlic cloves",
+                    "1 inch ginger",
+                    "1 tsp coriander powder"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            },
+            {
+                "name": "Bengali Lentil Soup",
+                "image": "https://example.com/lentilsoup.jpg",
+                "rating": 4.2,
+                "ingredients": [
+                    "1 cup red lentils",
+                    "1 onion",
+                    "3 garlic cloves",
+                    "1 inch ginger",
+                    "1 tsp turmeric powder"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://img.freepik.com/premium-photo/portrait-smiling-male-chef-standing-kitchen-counter-cutting-vegetables_23-2147863744.jpg?size=626&ext=jpg&ga=GA1.1.2006206461.1654410075&semt=robertav1_2_sidr",
+        "chef_name": "Abdul Karim",
+        "years_of_experience": 8,
+        "description": "Abdul Karim is a talented Bangladeshi chef with 8 years of experience. He is known for his innovative fusion dishes that combine traditional Bangladeshi flavors with modern cooking techniques.",
+        "likes": 3500,
+        "number_of_recipes": 4,
+        "recipes": [
+            {
+                "name": "Spicy Chicken Biryani",
+                "image": "https://example.com/chickenbiryani.jpg",
+                "rating": 4.6,
+                "ingredients": [
+                    "500g chicken",
+                    "2 cups basmati rice",
+                    "1 onion",
+                    "3 garlic cloves",
+                    "1 inch ginger",
+                    "1 tsp garam masala"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            },
+            {
+                "name": "Bangladeshi Style Kebabs",
+                "image": "https://example.com/kebabs.jpg",
+                "rating": 4.9,
+                "ingredients": [
+                    "500g ground beef",
+                    "1 onion",
+                    "3 garlic cloves",
+                    "1 inch ginger",
+                    "1 tsp paprika"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            },
+            {
+                "name": "Crispy Fried Fish",
+                "image": "https://example.com/friedfish.jpg",
+                "rating": 4.3,
+                "ingredients": [
+                    "500g fish fillets",
+                    "1 cup flour",
+                    "2 eggs",
+                    "1 tsp salt",
+                    "1 tsp black pepper"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://img.freepik.com/premium-photo/cropped-shot-young-male-chef-preparing-meal-professional-kitchen_579247-36.jpg?size=626&ext=jpg&ga=GA1.1.2006206461.1654410075&semt=robertav1_2_sidr",
+        "chef_name": "Siddiqur Rahman",
+        "years_of_experience": 12,
+        "description": "Siddiqur Rahman is a highly skilled Bangladeshi chef with over 12 years of experience. He is passionate about preserving traditional Bangladeshi recipes and techniques and is committed to using only the freshest and highest quality ingredients.",
+        "likes": 7000,
+        "number_of_recipes": 6,
+        "recipes": [
+            {
+                "name": "Shorshe Ilish (Mustard Hilsa)",
+                "image": "https://example.com/hilsa.jpg",
+                "rating": 4.7,
+                "ingredients": [
+                    "500g Hilsa fish",
+                    "2 tbsp mustard paste",
+                    "1 onion",
+                    "3 garlic cloves",
+                    "1 inch ginger",
+                    "1 tsp turmeric powder"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            },
+            {
+                "name": "Chapli Kebab",
+                "image": "https://example.com/chaplikebab.jpg",
+                "rating": 4.8,
+                "ingredients": [
+                    "500g ground beef",
+                    "1 onion",
+                    "3 garlic cloves",
+                    "1 inch ginger",
+                    "1 tsp cumin powder"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            },
+            {
+                "name": "Pitha (Rice Cake)",
+                "image": "https://example.com/pitha.jpg",
+                "rating": 4.2,
+                "ingredients": [
+                    "1 cup rice flour",
+                    "1 cup grated coconut",
+                    "1 cup jaggery",
+                    "1 tsp cardamom powder"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            },
+            {
+                "name": "Bhapa Chingri (Steamed Prawns)",
+                "image": "https://example.com/prawns.jpg",
+                "rating": 4.5,
+                "ingredients": [
+                    "500g prawns",
+                    "2 tbsp mustard paste",
+                    "1 onion",
+                    "3 garlic cloves",
+                    "1 inch ginger",
+                    "1 tsp turmeric powder"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://img.freepik.com/premium-photo/male-cook-white-uniform-hat-putting-herbs-food-plate-with-vegetable_106485-4897.jpg?size=626&ext=jpg&ga=GA1.1.2006206461.1654410075&semt=robertav1_2_sidr",
+        "chef_name": "Mizanur Rahman",
+        "years_of_experience": 10,
+        "description": "Mizanur Rahman is a talented Bangladeshi chef with 10 years of experience. He is known for his creative approach to traditional Bangladeshi cuisine and his use of innovative techniques and ingredients.",
+        "likes": 6000,
+        "number_of_recipes": 5,
+        "recipes": [
+            {
+                "name": "Shakshuka",
+                "image": "https://example.com/shakshuka.jpg",
+                "rating": 4.5,
+                "ingredients": [
+                    "4 eggs",
+                    "1 onion",
+                    "1 red bell pepper",
+                    "2 garlic cloves",
+                    "1 can diced tomatoes",
+                    "1 tsp paprika"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            },
+            {
+                "name": "Beef Bhuna",
+                "image": "https://example.com/beefbhuna.jpg",
+                "rating": 4.8,
+                "ingredients": [
+                    "500g beef",
+                    "1 onion",
+                    "3 garlic cloves",
+                    "1 inch ginger",
+                    "1 tsp cumin powder"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            },
+            {
+                "name": "Narkel Shorbot",
+                "image": "https://example.com/narkelshorbot.jpg",
+                "rating": 4.3,
+                "ingredients": [
+                    "2 cups coconut milk",
+                    "1/2 cup sugar",
+                    "1 tsp cardamom powder",
+                    "1 tbsp rosewater"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://img.freepik.com/free-photo/bearded-master-chef-prepares-fresh-salmon_496169-111.jpg?size=626&ext=jpg&ga=GA1.1.2006206461.1654410075&semt=robertav1_2_sidr",
+        "chef_name": "Mashrur Hossain",
+        "years_of_experience": 8,
+        "description": "Mashrur Hossain is a rising star in the Bangladeshi culinary world with 8 years of experience. He is known for his bold flavors and his ability to combine traditional Bangladeshi ingredients with global cuisine.",
+        "likes": 5000,
+        "number_of_recipes": 7,
+        "recipes": [
+            {
+                "name": "Chicken Tikka Masala",
+                "image": "https://example.com/chickentikkamasala.jpg",
+                "rating": 4.6,
+                "ingredients": [
+                    "500g boneless chicken",
+                    "1 onion",
+                    "2 garlic cloves",
+                    "1 inch ginger",
+                    "1 tsp garam masala",
+                    "1 cup tomato puree"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            },
+            {
+                "name": "Bengali Fish Curry",
+                "image": "https://example.com/bengalifishcurry.jpg",
+                "rating": 4.9,
+                "ingredients": [
+                    "500g fish fillets",
+                    "1 onion",
+                    "3 garlic cloves",
+                    "1 inch ginger",
+                    "1 tsp turmeric powder"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            },
+            {
+                "name": "Fuchka",
+                "image": "https://example.com/fuchka.jpg",
+                "rating": 4.2,
+                "ingredients": [
+                    "1 cup semolina",
+                    "1/2 cup all-purpose flour",
+                    "1/2 cup chickpeas",
+                    "1/2 cup tamarind chutney"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://img.freepik.com/premium-photo/handsome-young-italian-male-chef-portrait-he-is-confident-mood-studio-shot-with-copy-space_627567-887.jpg?size=626&ext=jpg&ga=GA1.1.2006206461.1654410075&semt=robertav1_2_sidr",
+        "chef_name": "Mohammad Rahman",
+        "years_of_experience": 15,
+        "description": "Mohammad Rahman is a veteran Bangladeshi chef with 15 years of experience. He is known for his passion for traditional Bangladeshi cuisine and his dedication to preserving and sharing its unique flavors and techniques.",
+        "likes": 8000,
+        "number_of_recipes": 8,
+        "recipes": [
+            {
+                "name": "Rui Macher Jhol",
+                "image": "https://example.com/ruimacherjhol.jpg",
+                "rating": 4.7,
+                "ingredients": [
+                    "500g Rui fish",
+                    "1 onion",
+                    "2 garlic cloves",
+                    "1 inch ginger",
+                    "1 tsp cumin powder"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            },
+            {
+                "name": "Mutton Rezala",
+                "image": "https://example.com/muttonrezala.jpg",
+                "rating": 4.9,
+                "ingredients": [
+                    "500g mutton",
+                    "1 onion",
+                    "3 garlic cloves",
+                    "1 inch ginger",
+                    "1 tsp black peppercorns"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            },
+            {
+                "name": "Pitha",
+                "image": "https://example.com/pitha.jpg",
+                "rating": 4.4,
+                "ingredients": [
+                    "1 cup rice flour",
+                    "1/2 cup grated coconut",
+                    "1/4 cup sugar",
+                    "1/2 tsp cardamom powder"
+                ],
+                "cooking_method": "1. Heat oil in a pan, add chopped onions and fry until they turn golden brown. \n2. Add chopped garlic and ginger and fry for a minute. \n3. Add coriander powder and fry for another minute. \n4. Add beef and cook until it browns on all sides. \n5. Add water, cover and simmer for 30-45 minutes, or until the beef is tender. \n6. Serve hot with naan or rice."
+            }
+        ]
+    }
+]
